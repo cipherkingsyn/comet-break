@@ -1,4 +1,4 @@
--- Credits To LeoDicap On The Old V3rmillion For Helping Me A Lot With The Script, He Wants To Keep His Discord Private.
+--comet gui 
 -- Place Check
 if game.PlaceId ~= 13864667823 then
 	if game.PlaceId == 14775231477 or game.PlaceId == 13864661000 then
